@@ -8,6 +8,8 @@ https://newsnow.busiyi.world/
 > 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/sansan0/TrendRadar/issues/95)
 
 
+
+
 [分享]自定义添加资讯平台大集合（基于newsnow）
  #95
 New issue
@@ -143,39 +145,5 @@ platforms:
   #   name: "36氪"           # 失败原因：接口可能已变更
   # - id: "linuxdo"
   #   name: "LinuxDo"        # 失败原因：接口可能已变更
-
-Reactions are currently unavailable
-Metadata
-Metadata
-Assignees
-@sansan0
-sansan0
-Labels
-enhancementNew feature or request
-New feature or request
-Projects
-No projects
-Milestone
-No milestone
-Relationships
-None yet
-Development
-No branches or pull requests
-Issue actions
-
-
-Open in GitHub Copilot app
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Community
-Docs
-Contact
-Manage cookies
-Do not share my personal information
 
 
