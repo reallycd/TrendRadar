@@ -1,0 +1,8 @@
+
+下面这个文件的同目录下有各个渠道的ID
+/workspaces/TrendRadar/newsnow/server/sources/qqvideo.ts
+不必克隆这个项目，直接访问网址就可以。
+
+
+> 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/sansan0/TrendRadar/issues/95)
+
