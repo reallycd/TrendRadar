@@ -7,78 +7,11 @@ https://newsnow.busiyi.world/
 
 > 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/sansan0/TrendRadar/issues/95)
 
-Skip to content
-Navigation Menu
-Sign in
-sansan0
-/
-TrendRadar
-Public template
-Code
-Issues
-30
-Pull requests
-19
-Actions
-Security and quality
-0
-Insights
+
 [分享]自定义添加资讯平台大集合（基于newsnow）
  #95
 New issue
-
-Copy link
-Open
-Assignees
-sansan0
-Labels
-enhancementNew feature or request
-New feature or request
-Description
-@laoma2053
-laoma2053
 opened on Oct 7, 2025
-
-Issue body actions
-🏷️ 建议类别
-用户体验改进
-
-Skip to content
-Navigation Menu
-Sign in
-sansan0
-/
-TrendRadar
-Public template
-Code
-Issues
-30
-Pull requests
-19
-Actions
-Security and quality
-0
-Insights
-[分享]自定义添加资讯平台大集合（基于newsnow）
- #95
-New issue
-
-Copy link
-Open
-Assignees
-sansan0
-Labels
-enhancementNew feature or request
-New feature or request
-Description
-@laoma2053
-laoma2053
-opened on Oct 7, 2025
-
-Issue body actions
-🏷️ 建议类别
-用户体验改进
-
 💭 详细描述你的想法
 自定义添加监控平台时，去newsnow一个一个添加很麻烦。
 
