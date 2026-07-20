@@ -14,6 +14,7 @@
 
 
 https://github.com/joyce677/TrendRadar/commits/main/
+https://github.com/joyce677/TrendRadar/tree/main/output
 这个用户2025年8月31日做了些修改，并且每天生成文件，保存筛选前的文件，包含各渠道的全部热点。https://newsnow.busiyi.world/
 main可能只换这个文件就行，有时还要改config等等，但会丢失此后的新功能。非必要还是不改了吧。
 >**升级说明：** 
