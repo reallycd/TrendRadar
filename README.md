@@ -1,3 +1,8 @@
+https://github.com/joyce677/TrendRadar/commits/main/
+这个用户2025年8月31日做了些修改，并且每天生成文件，保存筛选前的文件，包含各渠道的全部热点。
+
+
+
 <div align="center" id="trendradar">
 
 <a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
